@@ -53,9 +53,6 @@ CVE analysis & security research (Java)
 🔹 **Projet_cybers-curisation**  
 Security-focused JavaScript project
 
-🔹 **Tempus Dominus**  
-Open-source contribution (HTML)
-
 ---
 
 ## 📈 Quantitative Trading & Automation (Personal Projects)
