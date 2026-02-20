@@ -84,3 +84,7 @@ Alongside cybersecurity, I develop **automated trading systems** focused on:
 
 📧 alper.aydemir@efrei.net  
 🌐 https://alperaydemir.netlify.app/
+
+## 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/alper-aydemir/alper-aydemir/output/github-contribution-grid-snake-dark.svg)
