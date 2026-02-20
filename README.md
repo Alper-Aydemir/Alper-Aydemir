@@ -38,13 +38,6 @@ I enjoy securing infrastructures, analyzing systems, and building **robust autom
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alper-aydemir&show_icons=true&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper-aydemir&layout=compact&theme=chartreuse-dark" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alper-aydemir&theme=chartreuse-dark" />
