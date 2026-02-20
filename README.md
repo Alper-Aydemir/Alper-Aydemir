@@ -38,7 +38,6 @@ I enjoy securing infrastructures, analyzing systems, and building **robust autom
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alper-aydemir&theme=chartreuse-dark" />
 </p>
