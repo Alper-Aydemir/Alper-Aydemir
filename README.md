@@ -9,7 +9,7 @@
 🎓 Cybersecurity student at **EFREI Bordeaux**  
 🔐 Focus on **network security, pentesting & system hardening**  
 📍 Bordeaux, France  
-📅 Looking for a **minimum 3-month internship starting March 2026**
+📅 Looking for a **minimum 2 years Apprenticeship  starting right now 2026**
 
 I enjoy securing infrastructures, analyzing systems, and building **robust automated systems under strict constraints**.
 
